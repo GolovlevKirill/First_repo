@@ -1,5 +1,5 @@
 # first_repo
 
 Добавил текст локально
-English text local
-Добавил текст через браузер
+
+Добавил текст через браузер English text in browser
